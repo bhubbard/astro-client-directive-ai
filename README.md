@@ -4,8 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Astro](https://img.shields.io/badge/Astro-5.0+-orange?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-client-directive-ai/)
 
 > An Astro integration providing the custom client directive `client:ai-ready` that delays hydrating interactive UI components until the browser's local **Chrome Built-in AI** (Gemini Nano) model is fully initialized and available (`window.ai.languageModel.capabilities().available === 'readily'`).
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-client-directive-ai on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-client-directive-ai/)
 
 ---
 
